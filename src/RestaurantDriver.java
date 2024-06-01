@@ -65,7 +65,7 @@ public class RestaurantDriver {
 
             System.out.println("Total amount due: $" + total);
         } else {
-            System.out.println("Thank you for using the RMMS!");
+            System.out.println("Thank you for stay with us");
         }
 
         scanner.close();
