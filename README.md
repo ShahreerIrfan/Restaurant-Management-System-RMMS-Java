@@ -1,3 +1,5 @@
+# ![Restaurant Management System](https://via.placeholder.com/150)
+
 # Restaurant Management System
 
 ## Table of Contents
@@ -16,14 +18,14 @@
 
 ## Introduction
 
-The Restaurant Management System is a Java-based application designed to streamline the operations of a restaurant. It allows restaurant staff to manage the menu, take orders, and handle customer information efficiently. This system is designed to be user-friendly and provides essential functionalities to manage day-to-day restaurant operations.
+Welcome to the Restaurant Management System, a comprehensive Java-based application designed to streamline the operations of a restaurant. Our system facilitates efficient management of menus, orders, and customer information, ensuring a smooth day-to-day operation.
 
 ## System Requirements
 
-- Java Development Kit (JDK) 8 or above
-- Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse
-- MySQL Database
-- JDBC Driver for MySQL
+- **Java Development Kit (JDK) 8 or above**
+- **Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse**
+- **MySQL Database**
+- **JDBC Driver for MySQL**
 
 ## Installation
 
